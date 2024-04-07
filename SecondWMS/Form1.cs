@@ -16,13 +16,16 @@ namespace SecondWMS
         string logg;
         string pass;
         int res;
-        string message;
+    
+
         public Form1()
         {
             InitializeComponent();
             this.Shown += Form1_Shown;
             textBox2.KeyPress += textBox2_KeyPress;
+      
         }
+      
         private void Form1_Shown(object sender, EventArgs e)
         {
             textBox1.Focus(); // Ustawienie fokusu na textBox1 po załadowaniu formularza
@@ -88,9 +91,11 @@ namespace SecondWMS
                         if (res == 1)
                         {
                             // Pokaż Form2, jeśli wynik autoryzacji jest równy 1
-                            Form2 form2 = new Form2();
+                            Form2 from2 = new Form2();
                             form2.Show();
                             this.Hide();
+                           
+                            
                         }
 
                     }
@@ -100,8 +105,19 @@ namespace SecondWMS
                         MessageBox.Show("Wystąpił błąd: " + ex.Message);
                     }
                 }
+               
 
             }
+           
+        }
+        private void Form2_DataUpdated(object sender, EventArgs e)
+        {
+            // Tutaj odświeżamy dane w Form1, np. ponownie wczytujemy słownik
+            LoadData();
+        }
+        private void LoadData()
+        {
+            // Kod wczytujący dane
         }
     }
 }

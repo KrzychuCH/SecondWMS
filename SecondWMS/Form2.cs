@@ -12,19 +12,16 @@ namespace SecondWMS
 {
     public partial class Form2 : Form
     {
+   
+       
         public Form2()
         {
             InitializeComponent();
         }
-
-        private void Form2_Load(object sender, EventArgs e)
-        {
-
-        }
-
+  
         private void button1_Click(object sender, EventArgs e)
         {
-
+            
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -36,13 +33,16 @@ namespace SecondWMS
         {
             Form3 form3 = new Form3();
             form3.Owner = this; // Ustaw formularz nadrzędny dla Form3 na bieżący Form2
-            form3.Show();
             this.Hide();
+            form3.Show();
+      
+
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
 
         }
+       
     }
 }
