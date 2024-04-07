@@ -45,6 +45,7 @@
             this.button1.TabIndex = 0;
             this.button1.Text = "Procesy przyjęcia";
             this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
@@ -56,6 +57,7 @@
             this.button2.TabIndex = 1;
             this.button2.Text = "Procesy wydania";
             this.button2.UseVisualStyleBackColor = false;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button3
             // 
@@ -67,6 +69,7 @@
             this.button3.TabIndex = 2;
             this.button3.Text = "Profile dodatkowe";
             this.button3.UseVisualStyleBackColor = false;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // button4
             // 
@@ -78,6 +81,7 @@
             this.button4.TabIndex = 3;
             this.button4.Text = "Procesy magazynowania";
             this.button4.UseVisualStyleBackColor = false;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // Form2
             // 

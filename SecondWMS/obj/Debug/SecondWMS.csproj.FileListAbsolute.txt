@@ -9,3 +9,15 @@ C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\SecondWMS\obj\Debug\SecondWMS.cs
 C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\SecondWMS\obj\Debug\SecondWMS.csproj.CoreCompileInputs.cache
 C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\SecondWMS\obj\Debug\SecondWMS.exe
 C:\Users\kchul\OneDrive\Pulpit\C-share New Repo\SecondWMS\obj\Debug\SecondWMS.pdb
+C:\Users\kchul\OneDrive\Pulpit\Repozytorium\SecondWMS\bin\Debug\SecondWMS.exe.config
+C:\Users\kchul\OneDrive\Pulpit\Repozytorium\SecondWMS\bin\Debug\SecondWMS.exe
+C:\Users\kchul\OneDrive\Pulpit\Repozytorium\SecondWMS\bin\Debug\SecondWMS.pdb
+C:\Users\kchul\OneDrive\Pulpit\Repozytorium\SecondWMS\obj\Debug\SecondWMS.csproj.AssemblyReference.cache
+C:\Users\kchul\OneDrive\Pulpit\Repozytorium\SecondWMS\obj\Debug\SecondWMS.Form1.resources
+C:\Users\kchul\OneDrive\Pulpit\Repozytorium\SecondWMS\obj\Debug\SecondWMS.Form2.resources
+C:\Users\kchul\OneDrive\Pulpit\Repozytorium\SecondWMS\obj\Debug\SecondWMS.Properties.Resources.resources
+C:\Users\kchul\OneDrive\Pulpit\Repozytorium\SecondWMS\obj\Debug\SecondWMS.csproj.GenerateResource.cache
+C:\Users\kchul\OneDrive\Pulpit\Repozytorium\SecondWMS\obj\Debug\SecondWMS.csproj.CoreCompileInputs.cache
+C:\Users\kchul\OneDrive\Pulpit\Repozytorium\SecondWMS\obj\Debug\SecondWMS.exe
+C:\Users\kchul\OneDrive\Pulpit\Repozytorium\SecondWMS\obj\Debug\SecondWMS.pdb
+C:\Users\kchul\OneDrive\Pulpit\Repozytorium\SecondWMS\obj\Debug\SecondWMS.Form3.resources
