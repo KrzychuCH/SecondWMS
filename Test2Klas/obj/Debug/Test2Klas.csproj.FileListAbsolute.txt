@@ -1,0 +1,12 @@
+C:\Users\kchul\OneDrive\Pulpit\Repozytorium\Test2Klas\bin\Debug\Test2Klas.exe.config
+C:\Users\kchul\OneDrive\Pulpit\Repozytorium\Test2Klas\bin\Debug\Test2Klas.exe
+C:\Users\kchul\OneDrive\Pulpit\Repozytorium\Test2Klas\bin\Debug\Test2Klas.pdb
+C:\Users\kchul\OneDrive\Pulpit\Repozytorium\Test2Klas\obj\Debug\Test2Klas.csproj.AssemblyReference.cache
+C:\Users\kchul\OneDrive\Pulpit\Repozytorium\Test2Klas\obj\Debug\Test2Klas.Form1.resources
+C:\Users\kchul\OneDrive\Pulpit\Repozytorium\Test2Klas\obj\Debug\Test2Klas.Form2.resources
+C:\Users\kchul\OneDrive\Pulpit\Repozytorium\Test2Klas\obj\Debug\Test2Klas.Properties.Resources.resources
+C:\Users\kchul\OneDrive\Pulpit\Repozytorium\Test2Klas\obj\Debug\Test2Klas.csproj.GenerateResource.cache
+C:\Users\kchul\OneDrive\Pulpit\Repozytorium\Test2Klas\obj\Debug\Test2Klas.csproj.CoreCompileInputs.cache
+C:\Users\kchul\OneDrive\Pulpit\Repozytorium\Test2Klas\obj\Debug\Test2Klas.exe
+C:\Users\kchul\OneDrive\Pulpit\Repozytorium\Test2Klas\obj\Debug\Test2Klas.pdb
+C:\Users\kchul\OneDrive\Pulpit\Repozytorium\Test2Klas\obj\Debug\Test2Klas.Form3.resources
