@@ -7,27 +7,7 @@
       "RelativeMoniker": "D:0:0:{88C61396-1E2B-47A0-A397-F0294A85C77B}|Test2Klas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88C61396-1E2B-47A0-A397-F0294A85C77B}|Test2Klas.csproj|c:\\users\\kchul\\onedrive\\pulpit\\repozytorium\\test2klas\\klasa3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88C61396-1E2B-47A0-A397-F0294A85C77B}|Test2Klas.csproj|solutionrelative:klasa3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88C61396-1E2B-47A0-A397-F0294A85C77B}|Test2Klas.csproj|C:\\Users\\kchul\\OneDrive\\Pulpit\\Repozytorium\\Test2Klas\\widok1\\klasa1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88C61396-1E2B-47A0-A397-F0294A85C77B}|Test2Klas.csproj|solutionrelative:widok1\\klasa1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88C61396-1E2B-47A0-A397-F0294A85C77B}|Test2Klas.csproj|C:\\Users\\kchul\\OneDrive\\Pulpit\\Repozytorium\\Test2Klas\\widok2\\klasa2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88C61396-1E2B-47A0-A397-F0294A85C77B}|Test2Klas.csproj|solutionrelative:widok2\\klasa2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88C61396-1E2B-47A0-A397-F0294A85C77B}|Test2Klas.csproj|C:\\Users\\kchul\\OneDrive\\Pulpit\\Repozytorium\\Test2Klas\\widok2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88C61396-1E2B-47A0-A397-F0294A85C77B}|Test2Klas.csproj|solutionrelative:widok2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88C61396-1E2B-47A0-A397-F0294A85C77B}|Test2Klas.csproj|C:\\Users\\kchul\\OneDrive\\Pulpit\\Repozytorium\\Test2Klas\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88C61396-1E2B-47A0-A397-F0294A85C77B}|Test2Klas.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88C61396-1E2B-47A0-A397-F0294A85C77B}|Test2Klas.csproj|c:\\users\\kchul\\onedrive\\pulpit\\repozytorium\\test2klas\\widok1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{88C61396-1E2B-47A0-A397-F0294A85C77B}|Test2Klas.csproj|C:\\Users\\kchul\\OneDrive\\Pulpit\\Repozytorium\\Test2Klas\\widok1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88C61396-1E2B-47A0-A397-F0294A85C77B}|Test2Klas.csproj|solutionrelative:widok1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -39,8 +19,28 @@
       "RelativeMoniker": "D:0:0:{88C61396-1E2B-47A0-A397-F0294A85C77B}|Test2Klas.csproj|solutionrelative:widok2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{88C61396-1E2B-47A0-A397-F0294A85C77B}|Test2Klas.csproj|C:\\Users\\kchul\\OneDrive\\Pulpit\\Repozytorium\\Test2Klas\\klasa3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C61396-1E2B-47A0-A397-F0294A85C77B}|Test2Klas.csproj|solutionrelative:klasa3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C61396-1E2B-47A0-A397-F0294A85C77B}|Test2Klas.csproj|C:\\Users\\kchul\\OneDrive\\Pulpit\\Repozytorium\\Test2Klas\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C61396-1E2B-47A0-A397-F0294A85C77B}|Test2Klas.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C61396-1E2B-47A0-A397-F0294A85C77B}|Test2Klas.csproj|C:\\Users\\kchul\\OneDrive\\Pulpit\\Repozytorium\\Test2Klas\\widok2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C61396-1E2B-47A0-A397-F0294A85C77B}|Test2Klas.csproj|solutionrelative:widok2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C61396-1E2B-47A0-A397-F0294A85C77B}|Test2Klas.csproj|C:\\Users\\kchul\\OneDrive\\Pulpit\\Repozytorium\\Test2Klas\\widok2\\klasa2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C61396-1E2B-47A0-A397-F0294A85C77B}|Test2Klas.csproj|solutionrelative:widok2\\klasa2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{88C61396-1E2B-47A0-A397-F0294A85C77B}|Test2Klas.csproj|C:\\Users\\kchul\\OneDrive\\Pulpit\\Repozytorium\\Test2Klas\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{88C61396-1E2B-47A0-A397-F0294A85C77B}|Test2Klas.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C61396-1E2B-47A0-A397-F0294A85C77B}|Test2Klas.csproj|C:\\Users\\kchul\\OneDrive\\Pulpit\\Repozytorium\\Test2Klas\\widok1\\klasa1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C61396-1E2B-47A0-A397-F0294A85C77B}|Test2Klas.csproj|solutionrelative:widok1\\klasa1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -68,72 +68,72 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\kchul\\OneDrive\\Pulpit\\Repozytorium\\Test2Klas\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAgAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-09T20:00:21.396Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Klasa1.cs",
               "DocumentMoniker": "C:\\Users\\kchul\\OneDrive\\Pulpit\\Repozytorium\\Test2Klas\\Widok1\\Klasa1.cs",
               "RelativeDocumentMoniker": "Widok1\\Klasa1.cs",
               "ToolTip": "C:\\Users\\kchul\\OneDrive\\Pulpit\\Repozytorium\\Test2Klas\\Widok1\\Klasa1.cs",
               "RelativeToolTip": "Widok1\\Klasa1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-09T16:22:24.717Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\kchul\\OneDrive\\Pulpit\\Repozytorium\\Test2Klas\\Widok1\\Form1.cs",
               "RelativeDocumentMoniker": "Widok1\\Form1.cs",
               "ToolTip": "C:\\Users\\kchul\\OneDrive\\Pulpit\\Repozytorium\\Test2Klas\\Widok1\\Form1.cs",
               "RelativeToolTip": "Widok1\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-09T20:00:43.047Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Klasa2.cs",
               "DocumentMoniker": "C:\\Users\\kchul\\OneDrive\\Pulpit\\Repozytorium\\Test2Klas\\Widok2\\Klasa2.cs",
               "RelativeDocumentMoniker": "Widok2\\Klasa2.cs",
               "ToolTip": "C:\\Users\\kchul\\OneDrive\\Pulpit\\Repozytorium\\Test2Klas\\Widok2\\Klasa2.cs",
               "RelativeToolTip": "Widok2\\Klasa2.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-09T16:22:53.948Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Form2.cs",
               "DocumentMoniker": "C:\\Users\\kchul\\OneDrive\\Pulpit\\Repozytorium\\Test2Klas\\Widok2\\Form2.cs",
               "RelativeDocumentMoniker": "Widok2\\Form2.cs",
               "ToolTip": "C:\\Users\\kchul\\OneDrive\\Pulpit\\Repozytorium\\Test2Klas\\Widok2\\Form2.cs",
               "RelativeToolTip": "Widok2\\Form2.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-09T16:19:00.321Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Klasa3.cs",
               "DocumentMoniker": "C:\\Users\\kchul\\OneDrive\\Pulpit\\Repozytorium\\Test2Klas\\Klasa3.cs",
               "RelativeDocumentMoniker": "Klasa3.cs",
               "ToolTip": "C:\\Users\\kchul\\OneDrive\\Pulpit\\Repozytorium\\Test2Klas\\Klasa3.cs",
               "RelativeToolTip": "Klasa3.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-09T17:08:41.869Z",
               "EditorCaption": ""
@@ -146,14 +146,14 @@
               "RelativeDocumentMoniker": "Form3.cs",
               "ToolTip": "C:\\Users\\kchul\\OneDrive\\Pulpit\\Repozytorium\\Test2Klas\\Form3.cs",
               "RelativeToolTip": "Form3.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-09T17:11:13.864Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Projekt]",
               "DocumentMoniker": "C:\\Users\\kchul\\OneDrive\\Pulpit\\Repozytorium\\Test2Klas\\Widok1\\Form1.cs",
               "RelativeDocumentMoniker": "Widok1\\Form1.cs",
@@ -165,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "Form2.cs [Projekt]",
               "DocumentMoniker": "C:\\Users\\kchul\\OneDrive\\Pulpit\\Repozytorium\\Test2Klas\\Widok2\\Form2.cs",
               "RelativeDocumentMoniker": "Widok2\\Form2.cs",
@@ -177,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Form3.cs [Projekt]",
               "DocumentMoniker": "C:\\Users\\kchul\\OneDrive\\Pulpit\\Repozytorium\\Test2Klas\\Form3.cs",
               "RelativeDocumentMoniker": "Form3.cs",

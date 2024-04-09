@@ -12,6 +12,7 @@ namespace Test2Klas
 {
     public partial class Form1 : Form
     {
+        public event EventHandler ButtonClicked;
         public Form1()
         {
             InitializeComponent();
@@ -20,16 +21,20 @@ namespace Test2Klas
         {
 
         }
-
+        
 
         private void button1_Click(object sender, EventArgs e)
+        {
+            // Po kliknięciu przycisku, wywołaj zdarzenie ButtonClicked
+            ButtonClicked?.Invoke(this, EventArgs.Empty);
+        }
+
+       /* private void button1_Click(object sender, EventArgs e)
         {
             this.Close();
             Klasa2 klasa2 = new Klasa2();
             klasa2.ShowForm();
-          
-
-        }
+        }*/
       
     }
 }

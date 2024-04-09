@@ -14,32 +14,28 @@ namespace Test2Klas
         [STAThread]
         static void Main()
         {
-           //
-          //  Application.SetCompatibleTextRenderingDefault(false);
-           // Application.Run();
-
-              // Klasa1 klasa1 = new Klasa1();
-              // klasa1.ShowForm();
 
 
-             //  Klasa2 klasa2 = new Klasa2();
-             //    klasa2.ShowForm();
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Klasa1 klasa1 = new Klasa1();
+            Klasa2 klasa2 = new Klasa2();
+            Klasa3 klasa3 = new Klasa3();
 
-             // Klasa3 klasa3 = new Klasa3();
-             //  klasa3.ShowForm();
-            //
-            // Wywołaj ShowForm() dopiero po zamknięciu Form2
+          //  Application.Run();
 
-            /*  Klasa1 klasa1 = new Klasa1();
-              Klasa2 klasa2 = new Klasa2();
-              Klasa3 klasa3 = new Klasa3();
+            // Klasa1 klasa1 = new Klasa1();
+            //klasa1.ShowForm();
 
-              klasa1.ShowForm();
-              klasa2.ShowForm();
-              klasa3.ShowForm();*/
 
-            //Application.Run();
+            //   Klasa2 klasa2 = new Klasa2();
+            //     klasa2.ShowForm();
 
+            //  Klasa3 klasa3 = new Klasa3();
+            //   klasa3.ShowForm();
+
+            // 
+            Application.Run();
         }
     }
 }

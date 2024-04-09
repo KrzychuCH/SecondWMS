@@ -17,7 +17,7 @@ namespace Test2Klas
             InitializeComponent();
         }
 
-        private void Form3_Load(object sender, EventArgs e)
+      / private void Form3_Load(object sender, EventArgs e)
         {
 
         }

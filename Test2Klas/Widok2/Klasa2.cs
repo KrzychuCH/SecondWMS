@@ -14,21 +14,28 @@ namespace Test2Klas
         public Klasa2()
         {
             form2 = new Form2();
-            form2.Load += Form2_Load;
+            form2.ButtonClicked += Form2_ButtonClicked;
         }
-        public void ShowForm()
+        private void Form2_ButtonClicked(object sender, EventArgs e)
         {
-            form2.Show();
-
+            // Po kliknięciu przycisku w formularzu Form1, otwórz kolejny formularz
+            Klasa3 klasa3 = new Klasa3();
+            klasa3.ShowForm();
         }
-        private void Form2_Load(object sender, EventArgs e)
+    
+      
+      /*  private void Form2_Load(object sender, EventArgs e)
         {
             // Tutaj możesz dodać logikę dla Form2 po załadowaniu
+        }*/
+        public void ShowForm()
+        {
+            form2.ShowDialog();
         }
 
 
-      
-        
+
+
     }
     
 }
