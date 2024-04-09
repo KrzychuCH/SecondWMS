@@ -16,17 +16,19 @@ namespace Test2Klas
             form2 = new Form2();
             form2.Load += Form2_Load;
         }
+        public void ShowForm()
+        {
+            form2.Show();
 
+        }
         private void Form2_Load(object sender, EventArgs e)
         {
             // Tutaj możesz dodać logikę dla Form2 po załadowaniu
         }
 
-        public void ShowFormModal()
-        {
-            form2.ShowDialog();
 
-        } // Użyj ShowDialog() zamiast ShowForm()
+      
+        
     }
-    }
+    
 }

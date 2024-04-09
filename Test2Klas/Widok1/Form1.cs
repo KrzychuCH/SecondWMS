@@ -16,19 +16,20 @@ namespace Test2Klas
         {
             InitializeComponent();
         }
-
         private void Form1_Load(object sender, EventArgs e)
         {
 
         }
 
+
         private void button1_Click(object sender, EventArgs e)
         {
             this.Close();
             Klasa2 klasa2 = new Klasa2();
-            klasa2.ShowFormModal();
+            klasa2.ShowForm();
           
 
         }
+      
     }
 }

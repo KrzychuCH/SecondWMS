@@ -26,8 +26,8 @@ namespace Test2Klas
         {
             this.Close();
             Klasa3 klasa3 = new Klasa3();
-            klasa3.ShowFormModal();
-         
+            klasa3.ShowForm();
+            
 
         }
     }

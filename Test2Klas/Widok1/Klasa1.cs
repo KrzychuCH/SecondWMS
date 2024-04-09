@@ -17,14 +17,17 @@ namespace Test2Klas
             form1 = new Form1();
             form1.Load += Form1_Load;
         }
+        public void ShowForm()
+        {
+            form1.Show();//Application.Run(form1);
+        }
         private void Form1_Load(object sender, EventArgs e)
         {
             // Tutaj możesz dodać logikę dla Form1 po załadowaniu
         }
+        
 
-        public void ShowForm()
-        {
-            Application.Run(form1);
-        }
-    }
+      
+
+    } 
 }
